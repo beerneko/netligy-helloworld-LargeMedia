@@ -8,7 +8,7 @@ export default () => (
     <Link to="/contact/">Contact</Link>
     <p>Such wow. Very React.</p>
     <img src="https://source.unsplash.com/random/400x200" alt="" />
-    <img src="https://source.unsplash.com/user/beerneko/400x200" alt="" />
+    <img src="/images/peekingcat.jpg" style={{ width:`50%` }} alt="" />
     <button class="primary-button">Click me</button>
     </div>
 )
