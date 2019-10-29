@@ -5,7 +5,7 @@ import { Link } from "gatsby"
 export default () => (
     <div style={{ color: `blue` }}>
     <Header headerText="Index Page" />
-    <Link to="/contact/">Contact</Link>
+    <Link to="/about/">about</Link>
     <p>Such wow. Very React.</p>
     <img src="https://source.unsplash.com/random/400x200" alt="" />
     <img src="../images/peekingcat.jpg" style={{ width:`50%` }} alt="" />
