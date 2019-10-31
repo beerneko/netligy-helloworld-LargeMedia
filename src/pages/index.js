@@ -6,7 +6,7 @@ export default () => (
     <div style={{ color: `blue` }}>
     <Header headerText="Index Page" />
     <Link to="/about/">about</Link>
-    <p>Such wow. Very React.</p>
+    <p>Yuri neko nya.</p>
     <img src="https://source.unsplash.com/random/400x200" alt="" />
     <img src="../images/peekingcat.jpg" style={{ width:`50%` }} alt="" />
     <button class="primary-button">Click me</button>
