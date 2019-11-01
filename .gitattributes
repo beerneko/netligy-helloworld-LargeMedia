@@ -1,1 +1,2 @@
 peekingcat.jpg filter=lfs diff=lfs merge=lfs -text
+beerneko.jpg filter=lfs diff=lfs merge=lfs -text
